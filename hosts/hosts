@@ -1,9 +1,9 @@
 #************************************************************************************
-# hosts源均来自于网络
+# hosts源均来自于网络(TangChao)
 # https://gitea.com/Tan/MHosts
+# https://gitea.com/Tan/MHosts/raw/branch/main/hosts/hosts
 # https://github.com/sun5000/MHosts
 # https://github.com/sun5000/MHosts/raw/main/hosts/hosts
-# https://gitea.com/Tan/MHosts/raw/branch/main/hosts/hosts
 #************************************************************************************
 127.0.0.1 localhost
 127.0.0.1 ip6-localhost
@@ -38,12 +38,14 @@
 127.0.0.1 www.cmpassport.com
 127.0.0.1 wap.cmpassport.com
 127.0.0.1 verify.cmpassport.com
+127.0.0.1 onekey.cmpassport.com
 127.0.0.1 id6.me
 127.0.0.1 open.e.189.cn
 127.0.0.1 onepass.geetest.com
 127.0.0.1 114dev.com
 127.0.0.1 api.253.com
 127.0.0.1 zzx9.cn
+127.0.0.1 ms.zzx9.cn
 127.0.0.1 mobtwo.apistore.huaweicloud.com
 #127.0.0.1 onepass.geetest.com
 
