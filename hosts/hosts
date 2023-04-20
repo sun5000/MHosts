@@ -51,13 +51,38 @@
 127.0.0.1 ms.zzx9.cn
 127.0.0.1 mobtwo.apistore.huaweicloud.com
 
-13.229.188.59 github.com
+127.0.0.1 fakelocation.api.lerist.cc
+127.0.0.1 api.fakeloc.cc
+
+#127.0.0.1 ads.union.jd.com
+#127.0.0.1 bdsp.x.jd.com
+#127.0.0.1 c-nfa.jd.com
+#127.0.0.1 c.fa.jd.com
+#127.0.0.1 ccc.x.jd.com
+#127.0.0.1 cm.jd.com
+#127.0.0.1 gia.jd.com
+#127.0.0.1 im-x.jd.com
+#127.0.0.1 img-x.jd.com
+#127.0.0.1 jrad.jd.com
+#127.0.0.1 jzt.jd.com
+#127.0.0.1 kepler.jd.com
+#127.0.0.1 orbit.jd.com
+#127.0.0.1 stat.m.jd.com
+#127.0.0.1 u-x.jd.com
+#127.0.0.1 union.m.jd.com
+#127.0.0.1 wn.x.jd.com
+#127.0.0.1 x.jd.com
+#127.0.0.1 zt.jd.com
+
 20.205.243.166 github.com
+13.229.188.59 github.com
 140.82.112.4 github.com
 140.82.114.4 github.com
 140.82.114.3 github.com
 140.82.113.4 github.com
 140.82.113.3 github.com
+20.205.243.160 ssh.github.com
+140.82.113.36 ssh.github.com
 140.82.112.5 api.github.com
 140.82.112.6 api.github.com
 192.30.255.116 api.github.com
@@ -97,6 +122,10 @@
 185.199.109.133 raw.githubusercontent.com
 185.199.110.133 raw.githubusercontent.com
 185.199.111.133 raw.githubusercontent.com
+2606:50c0:8000::154 raw.githubusercontent.com
+2606:50c0:8001::154 raw.githubusercontent.com
+2606:50c0:8002::154 raw.githubusercontent.com
+2606:50c0:8003::154 raw.githubusercontent.com
 185.199.108.133 gist.githubusercontent.com
 185.199.109.133 gist.githubusercontent.com
 185.199.110.133 gist.githubusercontent.com
@@ -235,6 +264,16 @@
 104.16.87.20 cdn.Jsdelivr.net
 104.16.88.20 cdn.Jsdelivr.net
 104.16.89.20 cdn.Jsdelivr.net
+104.16.85.20 testingcf.jsdelivr.net
+104.16.86.20 testingcf.jsdelivr.net
+104.16.87.20 testingcf.jsdelivr.net
+104.16.88.20 testingcf.jsdelivr.net
+104.16.89.20 testingcf.jsdelivr.net
+2606:4700::6810:5514 testingcf.jsdelivr.net
+2606:4700::6810:5614 testingcf.jsdelivr.net
+2606:4700::6810:5714 testingcf.jsdelivr.net
+2606:4700::6810:5814 testingcf.jsdelivr.net
+2606:4700::6810:5914 testingcf.jsdelivr.net
 139.59.209.225 openwrt.org
 46.101.214.210 git.openwrt.org
 2a03:b0c0:3:d0::160e:e001 git.openwrt.org
@@ -282,6 +321,12 @@
 104.18.164.229 adguard.com
 2606:4700::6812:a3e5 adguard.com
 2606:4700::6812:a4e5 adguard.com
+104.20.9.218 v2ex.com
+104.20.10.218 v2ex.com
+172.67.3.188 v2ex.com
+2606:4700:10::6814:9da v2ex.com
+2606:4700:10::6814:ada v2ex.com
+2606:4700:10::ac43:3bc v2ex.com
 
 142.251.16.100 google.com
 142.251.16.101 google.com
@@ -293,6 +338,10 @@
 2607:f8b0:4004:c09::71 google.com
 2607:f8b0:4004:c09::8a google.com
 2607:f8b0:4004:c09::8b google.com
+8.8.4.4 dns.google.com
+8.8.8.8 dns.google.com
+2001:4860:4860::8844 dns.google.com
+2001:4860:4860::8888 dns.google.com
 142.251.163.84 accounts.google.com
 2607:f8b0:4004:c17::54 accounts.google.com
 216.239.32.10 ns1.google.com
@@ -303,6 +352,16 @@
 2001:4860:4802:36::a ns3.google.com
 216.239.38.10 ns4.google.com
 2001:4860:4802:38::a ns4.google.com
+142.250.11.99 googlevideo.com
+142.250.11.103 googlevideo.com
+142.250.11.104 googlevideo.com
+142.250.11.105 googlevideo.com
+142.250.11.106 googlevideo.com
+142.250.11.147 googlevideo.com
+2607:f8b0:4023:1::63 googlevideo.com
+2607:f8b0:4023:1::68 googlevideo.com
+2607:f8b0:4023:1::69 googlevideo.com
+2607:f8b0:4023:1::93 googlevideo.com
 172.253.62.17 mail.google.com
 172.253.62.18 mail.google.com
 172.253.62.19 mail.google.com
@@ -26630,7 +26689,6 @@
 127.0.0.1 ads.uni-konstanz.de
 127.0.0.1 ads.uni-potsdam.de
 127.0.0.1 ads.unibet.com
-127.0.0.1 ads.union.jd.com
 127.0.0.1 ads.uniquemedia.net
 127.0.0.1 ads.unister-gmbh.de
 127.0.0.1 ads.universalmusic.nl
@@ -36978,7 +37036,6 @@
 127.0.0.1 bdsmcompany.com
 127.0.0.1 bdsmpichunter.com
 127.0.0.1 bdsmtours.com
-#127.0.0.1 bdsp.x.jd.com
 127.0.0.1 bdtg.37wan.com
 127.0.0.1 bdtv.tianlangkm.com
 127.0.0.1 bduserlog.eastmoney.com
@@ -40441,7 +40498,6 @@
 127.0.0.1 c-gtc.getui.com
 127.0.0.1 c-hzgt2.getui.com
 127.0.0.1 c-mediation.kz
-127.0.0.1 c-nfa.jd.com
 127.0.0.1 c-on-text.com
 127.0.0.1 c-web.biz
 127.0.0.1 c.235123.net
@@ -40573,7 +40629,6 @@
 127.0.0.1 c.evidon.com
 127.0.0.1 c.f1zd.com
 127.0.0.1 c.f5mtrack.com
-127.0.0.1 c.fa.jd.com
 127.0.0.1 c.facebookma.cn
 127.0.0.1 c.fi.msn.com
 127.0.0.1 c.flx1.com
@@ -41828,7 +41883,6 @@
 127.0.0.1 ccc.m.txt99.org
 127.0.0.1 ccc.sys.intl.xiaomi.com
 127.0.0.1 ccc.sys.miui.com
-127.0.0.1 ccc.x.jd.com
 127.0.0.1 ccc00.opinionlab.com
 127.0.0.1 ccc01.opinionlab.com
 127.0.0.1 ccdace.hupu.com
@@ -44778,7 +44832,6 @@
 127.0.0.1 cm.ipinyou.com
 127.0.0.1 cm.it.kataweb.overture.com
 127.0.0.1 cm.ivillage.overture.com
-127.0.0.1 cm.jd.com
 127.0.0.1 cm.jp.overture.com
 127.0.0.1 cm.l.qq.com
 127.0.0.1 cm.lentainform.com
@@ -59280,7 +59333,6 @@
 127.0.0.1 gi.cname2.igexin.com
 127.0.0.1 gi.sfr.fr
 127.0.0.1 gi.xi.gxabj.com
-127.0.0.1 gia.jd.com
 127.0.0.1 giaiphapbds.admicro.vn
 127.0.0.1 gianna-lamothe.us
 127.0.0.1 gianna-mcgee.us
@@ -63126,7 +63178,6 @@
 127.0.0.1 ilyonanalytics.herokuapp.com
 127.0.0.1 ilzzf.voluumtrk.com
 127.0.0.1 im-apps.net
-127.0.0.1 im-x.jd.com
 127.0.0.1 im.405d5700.1ff6a9b.ads.a4cdn.contentabc.com
 127.0.0.1 im.405d5700.8d9937e.ads.a4cdn.contentabc.com
 127.0.0.1 im.51111900.b1aad3f.ads.a4cdn.contentabc.com
@@ -63529,7 +63580,6 @@
 127.0.0.1 img-iad.wip.mediaplex.com
 127.0.0.1 img-sjc.wip.mediaplex.com
 127.0.0.1 img-space.net
-127.0.0.1 img-x.jd.com
 127.0.0.1 img-ys011.didistatic.com
 127.0.0.1 img.12584.cn
 127.0.0.1 img.163.com
@@ -66200,7 +66250,6 @@
 127.0.0.1 jquerysxur6.live
 127.0.0.1 jqw688.com.cn
 127.0.0.1 jqyss.voluumtrk.com
-127.0.0.1 jrad.jd.com
 127.0.0.1 jrb.pluto.sogou.com
 127.0.0.1 jrcdelcotimescom.122.2o7.net
 127.0.0.1 jrcom.112.2o7.net
@@ -66924,7 +66973,6 @@
 127.0.0.1 jzmob.com
 127.0.0.1 jzny.com.cn
 127.0.0.1 jzrvquay.angelcities.com
-127.0.0.1 jzt.jd.com
 127.0.0.1 k-lite.tk
 127.0.0.1 k.85wa.cn
 127.0.0.1 k.admob.com
@@ -67297,7 +67345,6 @@
 127.0.0.1 kenneth-pontius.us
 127.0.0.1 kentsucks.youcanoptout.com
 127.0.0.1 kepler.cometsystems.com
-127.0.0.1 kepler.jd.com
 127.0.0.1 kepzavar.info
 127.0.0.1 keqiang.pro
 127.0.0.1 kergaukr.com
@@ -80144,7 +80191,6 @@
 127.0.0.1 orango.redirectme.net
 127.0.0.1 oranla.info
 127.0.0.1 orarala.com
-127.0.0.1 orbit.jd.com
 127.0.0.1 orbitscripts.com
 127.0.0.1 orbitz.tt.omtrdc.net
 127.0.0.1 orbiyz.com
@@ -93557,7 +93603,6 @@
 127.0.0.1 stat.letv.com
 127.0.0.1 stat.lianmeng.360.cn
 127.0.0.1 stat.m.360.cn
-127.0.0.1 stat.m.jd.com
 127.0.0.1 stat.m.tv.sohu.com
 127.0.0.1 stat.madbanner.ru
 127.0.0.1 stat.mobgi.com
@@ -100462,7 +100507,6 @@
 127.0.0.1 u-mrx.addflow.ru
 127.0.0.1 u-on.eu
 127.0.0.1 u-porn.mp1.mobi
-127.0.0.1 u-x.jd.com
 127.0.0.1 u.1133.cc
 127.0.0.1 u.114.com.cn
 127.0.0.1 u.123hala.com
@@ -100511,7 +100555,6 @@
 127.0.0.1 u.umm6.cn
 127.0.0.1 u.unionli.com
 127.0.0.1 u.videoamp.com
-127.0.0.1 u.x.jd.com
 127.0.0.1 u.xcy8.com
 127.0.0.1 u.yiiwoo.com
 127.0.0.1 u.yizuya.com
@@ -101215,7 +101258,6 @@
 127.0.0.1 union.jx2.kingsoft.com
 127.0.0.1 union.keyrun.com
 127.0.0.1 union.kingsoft.com
-127.0.0.1 union.m.jd.com
 127.0.0.1 union.maccms.com
 127.0.0.1 union.mop.com
 127.0.0.1 union.netease.com
@@ -108545,7 +108587,6 @@
 127.0.0.1 wmtrackinglink.com
 127.0.0.1 wmtrafficentry.com
 127.0.0.1 wn.pos.baidu.com
-127.0.0.1 wn.x.jd.com
 127.0.0.1 wncs.7ez4.cn
 127.0.0.1 wnek.xvyLjkr.com
 127.0.0.1 wnek.xvyljkr.com
@@ -124757,7 +124798,6 @@
 127.0.0.1 x.infzm.com
 127.0.0.1 x.innovid.com
 127.0.0.1 x.interia.pl
-127.0.0.1 x.jd.com
 127.0.0.1 x.jullycn.com
 127.0.0.1 x.lzspf.com
 127.0.0.1 x.mochiads.com
@@ -126466,7 +126506,6 @@
 127.0.0.1 zst.jzntxs.com
 127.0.0.1 zszwcp.cn
 127.0.0.1 zt.adsage.com
-127.0.0.1 zt.jd.com
 127.0.0.1 zt.pptv.com
 127.0.0.1 zt.tim-taxi.com
 127.0.0.1 zt.zeroredirect1.com
